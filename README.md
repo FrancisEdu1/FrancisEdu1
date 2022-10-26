@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="190"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chinedu-onukwue-829211206/">
@@ -21,8 +21,10 @@
 I'm a passionate, will driven and zealous developer, <br>ready to commit, resolve and see the end of all my projects.
 
   <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif)" width="600" height="300"/>
-</div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+  
+  
 
 ---
 
@@ -35,7 +37,8 @@ I am a Fronend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I resolve issues and contribute to projects on GitHub.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/chinedu-onukwue-829211206/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-onukwue-829211206/)
+
 
 
 
@@ -61,7 +64,8 @@ I am a Fronend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrancisEdu1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisEdu1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 ---
 
 ### :writing_hand: Blog Posts :
