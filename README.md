@@ -40,9 +40,6 @@ I am a Fronend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-
-
-
 <br />
 
 ## 🧰 Languages and Tools:
